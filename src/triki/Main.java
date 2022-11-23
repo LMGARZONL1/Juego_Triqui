@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Main {
 	
 	// Variables para guardar datos del usuario y del simbolo elegido
+	//cambio de version 2
 	static String[] simbolos =  new String [3];
 	static String Jugador1= "";
 	static String Jugador2= "";
